@@ -1,3 +1,1 @@
 # DE-Stopwatch
-
-AAAAAAAAAAAA

@@ -63,10 +63,10 @@ architecture Behavioral of stopwatch is
 begin
     time_counter: entity work.counter
         port map (
-            clk => clk, 
-            rst => rst, 
-            en => en_100hz, 
-            run => running,
+            clk    => clk, 
+            rst    => rst, 
+            en     => en_100hz, 
+            run    => running,
             c_ones => c_ones, 
             c_tens => c_tens,
             s_ones => s_ones, 
@@ -97,7 +97,7 @@ begin
         if rising_edge(clk) then
             if rst = '1' then
                 -- Pri resete vynulujeme počítadlo a vymažeme všetky pamäte
-                lap_ptr <= 0; 
+                lap_ptr  <= 0; 
                 m_c_ones <= (others => "0000"); 
                 m_c_tens <= (others => "0000");
                 m_s_ones <= (others => "0000"); 

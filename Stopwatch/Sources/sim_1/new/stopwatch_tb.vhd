@@ -104,15 +104,15 @@ begin
         rst <= '0';
         wait for 100 ns;
 
-        -- 1. ŠTART STOPIEK (pulz trvá len 10 ns)
+        -- Štart
         start_pulse <= '1';
         wait for TbPeriod;
         start_pulse <= '0';
 
-        -- Čakáme 25 ms v reálnom čase (mali by nabehnúť 2 stotiny)
+        -- Čakáme 1020 ms v reálnom čase (mali by nabehnúť 1 sekunda a 2 stotiny)
         wait for 1020 ms;
 
-        -- 4. ZASTAVENIE STOPIEK
+        -- Stop
         stop_pulse <= '1';
         wait for TbPeriod;
         stop_pulse <= '0';

@@ -24,7 +24,7 @@ DE-Stopwatch
 
 ### Moduly
 
-**Debouncer(#https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd):**
+**Debouncer(['Debouncer'](#https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**
 > [!NOTE]
 > ...............................
 

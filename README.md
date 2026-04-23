@@ -22,7 +22,9 @@ DE-Stopwatch
 
 --- 
 
-### Moduly
+### Moduly: 
+
+**Debouncer**
 
 | Port name | Direction | Type | Description |
 | :--- | :---: | :--- | :--- |

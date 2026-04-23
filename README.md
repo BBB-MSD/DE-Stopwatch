@@ -18,7 +18,8 @@ DE-Stopwatch
 ### Blokové schéma
 
 
-<img width="464" height="399" alt="image" src="https://github.com/user-attachments/assets/6ebb0052-39b5-413b-a837-6164ede068db" />
+
+<img width="555" height="473" alt="diagram_stopwatch" src="https://github.com/user-attachments/assets/c64caa09-d930-4827-a6cc-515300765316" />
 
 --- 
 

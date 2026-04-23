@@ -25,6 +25,7 @@ DE-Stopwatch
 ### Moduly
 
 **Debouncer:**
+-m "skfo"
 
 | Port name | Direction | Type |
 | :--- | :---: | :--- |

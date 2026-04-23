@@ -8,9 +8,9 @@ DE-Stopwatch
 
 ---
 ### Rozdelenie úloh
-* [Breza](https://github.com/uživatelské_jméno_1) – Programovanie funkcií, video
-* [Blumaier](https://github.com/uživatelské_jméno_2) – Top level design, prezentácia, plagát
-* [Benařík](https://github.com/uživatelské_jméno_3)– Vymyslenie funkcií programu, blokové schéma, debugging
+* [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
+* [Blumaier](https://github.com/267762) – Top level design, prezentácia, plagát
+* [Benařík]((https://github.com/michalbednarik1))– Vymyslenie funkcií programu, blokové schéma, debugging
 
 ---
 

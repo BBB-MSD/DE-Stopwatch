@@ -33,7 +33,8 @@ DE-Stopwatch
 | `rst` | in | `std_logic` |
 | `btn_in` | in | `std_logic` |
 | `btn_pulse` | out | `std_logic` |
- 
+
+
 
 
 **Clock Divider:**
@@ -44,3 +45,22 @@ DE-Stopwatch
 | `rst` | in | `std_logic` |
 | `en_100hz` | out | `std_logic` |
 | `en_1khz` | out | `std_logic` |
+
+
+**Display driver:**
+
+| Port name | Direction | Type |
+| :--- | :---: | :--- |
+| `clk` | in | `std_logic` |
+| `en_1khz` | in | `std_logic` |
+| `c0` | in | `unsigned(3 downto 0)` |
+| `c1` | in | `unsigned(3 downto 0)` |
+| `s0` | in | `unsigned(3 downto 0)` |
+| `s1` | in | `unsigned(3 downto 0)` |
+| `m0` | in | `unsigned(3 downto 0)` |
+| `m1` | in | `unsigned(3 downto 0)` |
+| `h0` | in | `unsigned(3 downto 0)` |
+| `h1` | in | `unsigned(3 downto 0)` |
+| `seg` | out | `std_logic_vector(6 downto 0)` |
+| `dp` | out | `std_logic` |
+| `an` | out | `std_logic_vector(7 downto 0)` |

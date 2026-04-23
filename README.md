@@ -7,11 +7,10 @@ DE-Stopwatch
 * 24 hodinový formát zobrazujúci hodiny, minúty, sekundy, stotiny
 
 ---
-
 ### Rozdelenie úloh
-* **Breza** – Programovanie funkcií, video
-* **Blumaier** – Top level design, prezentácia, plagát
-* **Bednařík** – Vymyslenie funkcií programu, blokové schéma, debugging
+* [Breza](https://github.com/uživatelské_jméno_1) – Programovanie funkcií, video
+* [Blumaier](https://github.com/uživatelské_jméno_2) – Top level design, prezentácia, plagát
+* [Benařík](https://github.com/uživatelské_jméno_3)– Vymyslenie funkcií programu, blokové schéma, debugging
 
 ---
 

@@ -24,7 +24,7 @@ DE-Stopwatch
 
 ### Moduly
 
-**Debouncer:**
+**Debouncer([`clk_en`](#)):**
 > [!NOTE]
 > ...............................
 

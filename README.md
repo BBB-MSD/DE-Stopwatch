@@ -25,7 +25,7 @@ DE-Stopwatch
 ### Moduly
 
 **Debouncer:**
--m "Moje tajná poznámka" [hash_commitu]
+
 
 | Port name | Direction | Type |
 | :--- | :---: | :--- |

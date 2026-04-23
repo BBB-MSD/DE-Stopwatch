@@ -10,7 +10,7 @@ DE-Stopwatch
 ### Rozdelenie úloh
 * [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
 * [Blumaier](https://github.com/267762) – Top level design, prezentácia, plagát
-* [Benařík]((https://github.com/michalbednarik1))– Vymyslenie funkcií programu, blokové schéma, debugging
+* [Bednařík](https://github.com/michalbednarik1)– Vymyslenie funkcií programu, blokové schéma, debugging
 
 ---
 

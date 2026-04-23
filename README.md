@@ -22,15 +22,15 @@ DE-Stopwatch
 
 --- 
 
-### Moduly: 
+### Moduly
 
-**Debouncer**
+**Debouncer:**
 
-| Port name | Direction | Type | Description |
-| :--- | :---: | :--- | :--- |
-| `clk` | in | `std_logic` | Main clock |
-| `rst` | in | `std_logic` | High-active synchronous reset |
-| `data` | in | `std_logic_vector(7 downto 0)` | Vector of input bits, 4 per digit |
-| `seg` | out | `std_logic_vector(6 downto 0)` | {a,b,c,d,e,f,g} active-low outputs |
-| `anode` | out | `std_logic_vector(1 downto 0)` | Anodes AN1..AN0 (active-low) |
+| Port name | Direction | Type |
+| :--- | :---: | :--- |
+| `clk` | in | `std_logic` |
+| `en_100hz` | in | `std_logic` |
+| `rst` | in | `std_logic` |
+| `btn_in` | in | `std_logic` |
+| `btn_pulse` | out | `std_logic` |
  

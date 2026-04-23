@@ -47,6 +47,31 @@ DE-Stopwatch
 | `en_1khz` | out | `std_logic` |
 
 
+
+
+
+**Stopwatch:**
+
+| Port name | Direction | Type |
+| :--- | :---: | :--- |
+| `clk` | in | `std_logic` |
+| `rst` | in | `std_logic` |
+| `en_100hz` | in | `std_logic` |
+| `start_pulse` | in | `std_logic` |
+| `stop_pulse` | in | `std_logic` |
+| `lap_pulse` | in | `std_logic` |
+| `sw` | in | `std_logic_vector(3 downto 0)` |
+| `disp_c_ones` | out | `unsigned(3 downto 0)` |
+| `disp_c_tens` | out | `unsigned(3 downto 0)` |
+| `disp_s_ones` | out | `unsigned(3 downto 0)` |
+| `disp_s_tens` | out | `unsigned(3 downto 0)` |
+| `disp_m_ones` | out | `unsigned(3 downto 0)` |
+| `disp_m_tens` | out | `unsigned(3 downto 0)` |
+| `disp_h_ones` | out | `unsigned(3 downto 0)` |
+| `disp_h_tens` | out | `unsigned(3 downto 0)` |
+
+
+
 **Display driver:**
 
 | Port name | Direction | Type |

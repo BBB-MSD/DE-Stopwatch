@@ -25,7 +25,8 @@ DE-Stopwatch
 ### Moduly
 
 **Debouncer:**
-
+> [!NOTE]
+> ...............................
 
 | Port name | Direction | Type |
 | :--- | :---: | :--- |

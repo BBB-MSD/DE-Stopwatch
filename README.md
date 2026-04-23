@@ -34,3 +34,13 @@ DE-Stopwatch
 | `btn_in` | in | `std_logic` |
 | `btn_pulse` | out | `std_logic` |
  
+
+
+**Clock Divider:**
+
+| Port name | Direction | Type |
+| :--- | :---: | :--- |
+| `clk` | in | `std_logic` |
+| `rst` | in | `std_logic` |
+| `en_100hz` | out | `std_logic` |
+| `en_1khz` | out | `std_logic` |

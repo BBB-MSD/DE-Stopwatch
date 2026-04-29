@@ -53,7 +53,7 @@ DE-Stopwatch
 
 
 
-**Stopwatch:**
+**Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
 > [!NOTE]
 > ...............................
 
@@ -78,7 +78,7 @@ DE-Stopwatch
 
 
 
-**Display driver:**
+**Display driver(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
 > [!NOTE]
 > ...............................
 

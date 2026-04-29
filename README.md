@@ -53,7 +53,7 @@ DE-Stopwatch
 
 
 
-**Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
+**Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch.vhd)):**
 > [!NOTE]
 > ...............................
 

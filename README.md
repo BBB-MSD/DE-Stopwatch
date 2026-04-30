@@ -155,4 +155,5 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 * Vivado 2025.2
 * Microsoft whiteboard
 * draw.io
+* Canva
 

@@ -39,7 +39,11 @@ DE-Stopwatch
 --- 
 
 <div align="center">
-  <video width="400" height="600" src="https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80" />
+  
+
+https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
+
+
 </div>
 
 --- 

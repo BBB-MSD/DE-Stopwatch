@@ -1,6 +1,6 @@
 DE-Lap stopwatch
 
-#### Športové stopky
+# Športové stopky
 
 **Specifikace**
 * Vývojové úprostředí - AMD Vivado

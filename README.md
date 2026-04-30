@@ -2,14 +2,14 @@ DE-Lap stopwatch
 
 # Športové stopky
 
-**Specifikace**
+###**Specifikace**
 * Vývojové úprostředí - AMD Vivado
 * Vývojová deska - Nexys A7-50T (Artix-7)
 * Programovací jazyk - VHDL
 * Simulace - Behavioral simulator
 
 
-**Funkcie:**
+###**Funkcie:**
 * 4 buttony – Start, Stop, Reset, Lap
 * Ukladacia kapacita 8 lap časov, zobrazenie pomocou 4 switchov. Pri 9. a každom nasledujúcom lap čase začne prepisovať všetky predchádzajúce lap časy počínajúc prvým.
 * 24 hodinový formát zobrazujúci hodiny, minúty, sekundy, stotiny
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 --- 
 ### Moduly
 
-**Debouncer([code](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**
+####**Debouncer([code](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**
 > [!NOTE]
 > Odstraňuje mechanické zákmity tlačítek, aby každé stisknutí vyvolalo právě jednu akci
 
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 
 
 
-**Clock Divider(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
+####**Clock Divider(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
 > [!NOTE]
 > Generuje přesné časové pulzy vysokorychlostních systémových hodin desky
 
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 
 
 
-**Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch.vhd)):**
+####**Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch.vhd)):**
 > [!NOTE]
 > Obsahuje hlavní logiku čítání času (setiny, sekundy, minuty) a ukládání mezičasů do paměti
 
@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 
 
 
-**Display driver(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/display_driver.vhd)):**
+####**Display driver(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/display_driver.vhd)):**
 > [!NOTE]
 > Ovládá multiplexní přepínání mezi displeji pro zobrazení času a indexu mezičasu
 
@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 
 
 
-**Stopwatch_top(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch_top.vhd)):**
+####**Stopwatch_top(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch_top.vhd)):**
 > [!NOTE]
 > Nejvyšší vrstva, která propojuje všechny vnitřní moduly s fyzickými piny a komponenty desky Nexys A7
 

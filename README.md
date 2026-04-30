@@ -1,6 +1,10 @@
 DE-Stopwatch
 
 ### Športové stopky
+
+
+
+
 **Funkcie:**
 * 4 buttony – Start, Stop, Reset, Lap
 * Ukladacia kapacita 8 lap časov, zobrazenie pomocou 4 switchov. Pri 9. a každom nasledujúcom lap čase začne prepisovať všetky predchádzajúce lap časy počínajúc prvým.

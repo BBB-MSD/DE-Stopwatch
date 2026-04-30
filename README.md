@@ -26,7 +26,7 @@ DE-Stopwatch
 
 **Debouncer(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**
 > [!NOTE]
-> ...............................
+> Odstraňuje mechanické zákmity tlačítek, aby každé stisknutí vyvolalo právě jednu akci
 
 | Port name | Direction | Type |
 | :--- | :---: | :--- |
@@ -40,7 +40,7 @@ DE-Stopwatch
 
 **Clock Divider(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/clock_divider.vhd)):**
 > [!NOTE]
-> ...............................
+> Generuje přesné časové pulzy vysokorychlostních systémových hodin desky
 
 | Port name | Direction | Type |
 | :--- | :---: | :--- |
@@ -55,7 +55,7 @@ DE-Stopwatch
 
 **Stopwatch(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch.vhd)):**
 > [!NOTE]
-> ...............................
+> Obsahuje hlavní logiku čítání času (setiny, sekundy, minuty) a ukládání mezičasů do paměti
 
 
 | Port name | Direction | Type |
@@ -80,7 +80,7 @@ DE-Stopwatch
 
 **Display driver(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/display_driver.vhd)):**
 > [!NOTE]
-> ...............................
+> Ovládá multiplexní přepínání mezi displeji pro zobrazení času a indexu mezičasu
 
 
 | Port name | Direction | Type |

@@ -8,6 +8,8 @@ DE-Stopwatch
 <p align="center">
   <img width="445" height="592" alt="Funkce" src="https://github.com/user-attachments/assets/a687f7db-ad90-43f8-9a8d-162bc7e51dea" />
 </p>
+
+
 ---
 ### Rozdelenie úloh
 * [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video

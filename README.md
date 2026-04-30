@@ -25,6 +25,7 @@ DE-Stopwatch
 ### Moduly
 
 **Debouncer(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**
+---
 > [!NOTE]
 > Odstraňuje mechanické zákmity tlačítek, aby každé stisknutí vyvolalo právě jednu akci
 

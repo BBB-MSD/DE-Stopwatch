@@ -50,6 +50,10 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 
 </div>
 
+### Plakát
+
+[Digital Lap stopwatch.pdf](https://github.com/user-attachments/files/27241969/Digital.Lap.stopwatch.pdf)
+
 --- 
 ### Moduly
 

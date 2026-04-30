@@ -22,6 +22,14 @@ DE-Stopwatch
 
 --- 
 
+### Video
+--- 
+
+
+https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80
+
+
+--- 
 ### Moduly
 
 **Debouncer([code](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/imports/Documents/debounce/debounce.srcs/sources_1/new/debounce.vhd)):**

@@ -26,9 +26,9 @@ DE-Stopwatch
 ### Video
 --- 
 
-
-https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80
-
+<p align="center">
+  https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80
+</p>
 
 --- 
 ### Moduly

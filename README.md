@@ -27,7 +27,7 @@ DE-Stopwatch
 --- 
 
 <div align="center">
-  https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80
+  <video src="https://github.com/user-attachments/assets/a477cf6f-b135-4a2f-b7c3-4bfbee450a80" />
 </div>
 
 --- 

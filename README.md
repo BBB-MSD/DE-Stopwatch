@@ -19,7 +19,7 @@ DE-Lap stopwatch
 
 ### **Funkce:**
 * 4 buttony – Start, Stop, Reset, Lap
-* Ukladací kapacita 8 lap časů, zobrazení pomocí 4 switchů. Při 9. a každým následujícom lap čase začne přepisovat všechny předcházející lap časy počínaje prvním.
+* Ukladací kapacita 8 lap časů, zobrazení pomocí 4 switchů. Při 9. a každým následujícím lap čase začne přepisovat všechny předcházející lap časy počínaje prvním.
 * 24 hodinový formát zobrazující hodiny, minuty, sekundy, setiny
 <p align="center">
   <img width="445" height="592" alt="Funkce" src="https://github.com/user-attachments/assets/a687f7db-ad90-43f8-9a8d-162bc7e51dea" />

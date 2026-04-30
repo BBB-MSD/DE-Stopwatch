@@ -1,11 +1,11 @@
 DE-Lap stopwatch
 
-# Športové stopky
+# Sportovní stopky
 
 ### Tým
-* [Samuel Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
-* [Daniel Blumaier](https://github.com/267762) – Top level design, plagát
-* [Michal Bednařík](https://github.com/michalbednarik1)– Vymyslenie funkcií programu, blokové schéma, debugging
+* [Samuel Breza](https://github.com/BBB-MSD) – Programování funkcí, video
+* [Daniel Blumaier](https://github.com/267762) – Top level design, plakát
+* [Michal Bednařík](https://github.com/michalbednarik1)– Vymyslení funkcí programu, blokové schéma, debugging
 
 ---
 
@@ -17,10 +17,10 @@ DE-Lap stopwatch
 
 ---
 
-### **Funkcie:**
+### **Funkce:**
 * 4 buttony – Start, Stop, Reset, Lap
-* Ukladacia kapacita 8 lap časov, zobrazenie pomocou 4 switchov. Pri 9. a každom nasledujúcom lap čase začne prepisovať všetky predchádzajúce lap časy počínajúc prvým.
-* 24 hodinový formát zobrazujúci hodiny, minúty, sekundy, stotiny
+* Ukladací kapacita 8 lap časů, zobrazení pomocí 4 switchů. Při 9. a každým následujícom lap čase začne přepisovat všechny předcházející lap časy počínaje prvním.
+* 24 hodinový formát zobrazující hodiny, minuty, sekundy, setiny
 <p align="center">
   <img width="445" height="592" alt="Funkce" src="https://github.com/user-attachments/assets/a687f7db-ad90-43f8-9a8d-162bc7e51dea" />
 </p>

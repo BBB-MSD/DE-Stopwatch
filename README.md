@@ -10,7 +10,7 @@ DE-Lap stopwatch
 ---
 
 ### **Specifikace**
-* Vývojové úprostředí - AMD Vivado
+* Vývojové úprostředí - AMD Vivado 2025.2
 * Vývojová deska - Nexys A7-50T (Artix-7)
 * Programovací jazyk - VHDL
 * Simulace - Behavioral simulator
@@ -147,4 +147,12 @@ https://github.com/user-attachments/assets/09790f46-e5cb-45f9-bb6d-e3da172339c5
 | `seg` | out | `std_logic_vector(6 downto 0)` |
 | `dp` | out | `std_logic` |
 | `an` | out | `std_logic_vector(7 downto 0)` |
+
+---
+
+#### Použité nástroje
+* Google gemini
+* Vivado 2025.2
+* Microsoft whiteboard
+* draw.io
 

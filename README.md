@@ -1,11 +1,11 @@
 DE-Lap stopwatch
 
 # Športové stopky
----
+
 ### Tým
-* [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
-* [Blumaier](https://github.com/267762) – Top level design, plagát
-* [Bednařík](https://github.com/michalbednarik1)– Vymyslenie funkcií programu, blokové schéma, debugging
+* [Samuel Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
+* [Daniel Blumaier](https://github.com/267762) – Top level design, plagát
+* [Michal Bednařík](https://github.com/michalbednarik1)– Vymyslenie funkcií programu, blokové schéma, debugging
 
 ---
 

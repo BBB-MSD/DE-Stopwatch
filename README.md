@@ -5,7 +5,10 @@ DE-Stopwatch
 * 4 buttony – Start, Stop, Reset, Lap
 * Ukladacia kapacita 8 lap časov, zobrazenie pomocou 4 switchov. Pri 9. a každom nasledujúcom lap čase začne prepisovať všetky predchádzajúce lap časy počínajúc prvým.
 * 24 hodinový formát zobrazujúci hodiny, minúty, sekundy, stotiny
-
+<p align="center">
+  <img width="445" height="592" alt="Funkce" src="https://github.com/user-attachments/assets/a687f7db-ad90-43f8-9a8d-162bc7e51dea" />
+" />
+</p>
 ---
 ### Rozdelenie úloh
 * [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video

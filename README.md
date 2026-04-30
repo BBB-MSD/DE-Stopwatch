@@ -40,7 +40,7 @@ DE-Lap stopwatch
 --- 
 
 ### Video
---- 
+ 
 
 <div align="center">
   

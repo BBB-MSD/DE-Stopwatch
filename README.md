@@ -4,7 +4,7 @@ DE-Stopwatch
 
 **Specifikace**
 * Vývojové úprostředí - AMD Vivado
-* Hardware - Nexys A7-50T (Artix-7)
+* Vývojová deska - Nexys A7-50T (Artix-7)
 * Programovací jazyk - VHDL
 * Simulace - Behavioral simulator
 

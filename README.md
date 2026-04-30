@@ -1,7 +1,7 @@
 DE-Lap stopwatch
 
 # Športové stopky
-
+---
 ### Rozdelenie úloh
 * [Breza](https://github.com/BBB-MSD) – Programovanie funkcií, video
 * [Blumaier](https://github.com/267762) – Top level design, plagát
@@ -15,6 +15,7 @@ DE-Lap stopwatch
 * Programovací jazyk - VHDL
 * Simulace - Behavioral simulator
 
+---
 
 ### **Funkcie:**
 * 4 buttony – Start, Stop, Reset, Lap

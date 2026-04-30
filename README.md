@@ -111,7 +111,7 @@ DE-Stopwatch
 
 
 
-**Stopwatch_top(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/display_driver.vhd)):**
+**Stopwatch_top(['code'](https://github.com/BBB-MSD/DE-Stopwatch/blob/main/Stopwatch/Sources/sources_1/new/stopwatch_top.vhd)):**
 > [!NOTE]
 > Nejvyšší vrstva, která propojuje všechny vnitřní moduly s fyzickými piny a komponenty desky Nexys A7
 
@@ -119,15 +119,12 @@ DE-Stopwatch
 | Port name | Direction | Type |
 | :--- | :---: | :--- |
 | `clk` | in | `std_logic` |
-| `en_1khz` | in | `std_logic` |
-| `c0` | in | `unsigned(3 downto 0)` |
-| `c1` | in | `unsigned(3 downto 0)` |
-| `s0` | in | `unsigned(3 downto 0)` |
-| `s1` | in | `unsigned(3 downto 0)` |
-| `m0` | in | `unsigned(3 downto 0)` |
-| `m1` | in | `unsigned(3 downto 0)` |
-| `h0` | in | `unsigned(3 downto 0)` |
-| `h1` | in | `unsigned(3 downto 0)` |
+| `reset` | in | `std_logic` |
+| `btn_start` | in | `std_logic` |
+| `btn_stop` | in | `std_logic` |
+| `btn_lap` | in | `std_logic` |
+| `sw` | in | `std_logic_vector(3 downto 0)` |
 | `seg` | out | `std_logic_vector(6 downto 0)` |
 | `dp` | out | `std_logic` |
 | `an` | out | `std_logic_vector(7 downto 0)` |
+
